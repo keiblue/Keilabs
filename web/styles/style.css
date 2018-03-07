@@ -22,6 +22,7 @@ section {
     background: #F7F8F9;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-bottom: 1.5px rgba(0, 0, 0, 0.2) ridge;
+    height: 100%;
 }
 
 .row {
